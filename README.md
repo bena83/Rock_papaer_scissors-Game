@@ -1,1 +1,1 @@
-# Rock_papaer_scissors-Game
+Zuri team rock,paper,scissors python program
